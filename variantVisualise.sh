@@ -12,14 +12,14 @@
 # variantApp is free software: you can redistribute it and/or modify     #
 # it under the terms of the                                              #
 #                                                                        #
-# Gnu Public License (GPL3) license.                                     #
+# MIT license.                                     #
 #                                                                        #
 # variantApp  is distributed in the hope that it will be useful,         #
 # but WITHOUT ANY WARRANTY; without even the implied warranty of         #
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the          #
-# GPL3 license for more details.                                         #
+# MIT license for more details.                                         #
 #                                                                        #
-# You should have received a copy of the GPL3 license                    #
+# You should have received a copy of the MIT license                    #
 # along with variantApp .                                                #
 ##########################################################################
 
